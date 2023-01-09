@@ -1,0 +1,17 @@
+#+title: Contact
+#+draft: false
+#+lastmod: <2023-01-09 Mon>
+
+Offers, questions and inquiries please send to [[mailto:paul@mayer-zuffenhausen.de][paul@mayer-zuffenhausen.de]]
+
+*** Vita
+
+From 2020-2022 I worked as Software Engineering Intern at [[https://www.iteratec.com][Iteratec]], enhancing clients by creating modern digital solutions using Java, TypeScript, React, Python and various other technologies and frameworks.
+
+Teaching 'Theoretische Informatik' for two terms as a tutor.
+
+Univeristy degree B.Sc. Computer Science estimated finish in spring 2023.
+
+Acquired 'Allgemeine Hochschulreife Abitur' in 2017.
+
+I love climbing. I also work part time in the climbing gym [[https://www.kletterzentrum-stuttgart.de][Kletterzentrum Stuttgart]], supporting wherever I can.

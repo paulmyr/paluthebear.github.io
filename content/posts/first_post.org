@@ -1,0 +1,15 @@
+#+title: How to write a thesis
+#+description: description
+#+date: 2023-01-01
+#+draft: false
+
+
+* How to make soup
+I don't know lol.
+
+#+begin_src emacs-lisp
+  (message "This is lisp code")
+#+end_src
+
+#+begin_youtube w7Ft2ymGmfc
+#+end_youtube
