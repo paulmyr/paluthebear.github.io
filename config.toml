@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://www.paul-myr.de"
 title = "paulmayer"
 theme = "hugo-coder"
 languageCode = "en"
