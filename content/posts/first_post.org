@@ -1,0 +1,23 @@
+#+title: How to write a thesis
+#+description: description
+#+date: 2023-01-01
+#+draft: true
+
+Writing is hard. This post won't make you a good writer, but you will understand how to structure your writing process *and*, some might argue more importantly, your knowledge.
+I try not to dive too deep into the nitty gritty of software and tools out there; however, this post should give you a good understanding of what could be useful... and what not.
+
+* The process
+To outline the process into, I formulated 3 basic tasks - in reality, these concepts intersect and a good workflow should represent that.
+I will touch on that later.
+1. Information gathering - BE THE KRAKEN
+2. Information processing - Create something new (and do experiments and stuff)
+3. Information presentation - Share what you learned
+
+** Information gathering   
+
+** Information processing
+
+** Information presentation
+
+* Final thoughts
+Obviously, all three phases can't and shouldn't be done without overlap. 
