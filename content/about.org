@@ -5,12 +5,13 @@
 Offers, questions and inquiries please send to [[mailto:paul@mayer-zuffenhausen.de][paul@mayer-zuffenhausen.de]]
 
 *** Vita
+Since Oktober 2023 I work as a premaster at Bosch. In the big data field, I analyze and visualize vehicle data working closly together with system engineers to assist in developing innovative components. We detect anomalies, monitor component lifecycles and assist in many more ways to assure high quality standards in various different usecases.
 
 From 2020-2022 I worked as Software Engineering Intern at [[https://www.iteratec.com][Iteratec]], enhancing clients by creating modern digital solutions using Java, TypeScript, React, Python and various other technologies and frameworks.
 
 Teaching 'Theoretische Informatik' for two terms as a tutor.
 
-Univeristy degree B.Sc. Computer Science estimated finish in october 2023.
+Univeristy degree B.Sc. Computer Science finished in september 2023.
 
 Acquired 'Allgemeine Hochschulreife Abitur' in 2017.
 
