@@ -115,7 +115,7 @@ author = "authors"
 name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 1
-url = "https://github.com/paluthebear/"
+url = "https://github.com/paulmyr"
 
 [[params.social]]
 name = "LinkedIn"
