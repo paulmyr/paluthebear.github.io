@@ -1,18 +1,20 @@
 #+title: Contact
 #+draft: false
-#+lastmod: <2023-06-23 Fri>
+#+lastmod: <2024-07-17 Wed>
 
 Offers, questions and inquiries please send to [[mailto:paul@mayer-zuffenhausen.de][paul@mayer-zuffenhausen.de]]
 
 *** Vita
-Since Oktober 2023 I work as a premaster at Bosch. In the big data field, I analyze and visualize vehicle data working closly together with system engineers to assist in developing innovative components. We detect anomalies, monitor component lifecycles and assist in many more ways to assure high quality standards in various different usecases.
+Since August 2024, I study at KTH in Stockholm to complete my M.Sc. in Computer Science, where I focus in Scientifc Computing and Simulation Science.
+
+From Oktober 2023 till August 2024 I worked as a premaster at Bosch. In the big data field, I analyzed and visualized vehicle data to assist in developing innovative vehicle components. We detected anomalies, monitored component lifecycles and assisted in many more ways to assure high quality standards in various different usecases.
 
 From 2020-2022 I worked as Software Engineering Intern at [[https://www.iteratec.com][Iteratec]], enhancing clients by creating modern digital solutions using Java, TypeScript, React, Python and various other technologies and frameworks.
 
-Teaching 'Theoretische Informatik' for two terms as a tutor.
+Taught 'Theoretische Informatik' for two terms as a tutor.
 
 Univeristy degree B.Sc. Computer Science finished in september 2023.
 
 Acquired 'Allgemeine Hochschulreife Abitur' in 2017.
 
-I love climbing. I also work part time in the climbing gym [[https://www.kletterzentrum-stuttgart.de][Kletterzentrum Stuttgart]], helping with IT-Tasks and Routesetting.
+I love climbing. For several years I worked as a Routesetter and in different other positions at [[https://www.kletterzentrum-stuttgart.de][Kletterzentrum Stuttgart]].
